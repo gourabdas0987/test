@@ -1,0 +1,10 @@
+{
+    "git.allowForcePush": true,
+    "git.branchRandomName.enable": true,
+    "git.enableCommitSigning": true,
+    "git.enableSmartCommit": true,
+    "git.fetchOnPull": true,
+    "search.useParentIgnoreFiles": true,
+    "git.ignoreLegacyWarning": true,
+    "search.useGlobalIgnoreFiles": true
+}
